@@ -1,14 +1,14 @@
-# Ahalya K - Data Analyst & Software Developer
+# Ahalya K — Aspiring Data Analyst & Software Developer
 
 SQL · Python · Java · Power BI · Bangalore
 
-BCA graduate (2026) focused on data analysis and practical software tools. Open to entry-level **Data Analyst**, **Analyst Trainee**, **IT Support**, and **Software Developer** roles in Bangalore and across Karnataka.
+2026 BCA graduate building skills in data analysis and software development. Looking for **entry-level** roles: Data Analyst, Analyst Trainee, IT Support, or Software Developer. Based in Karnataka and open to relocating to Bangalore.
 
 ---
 
 ## About
 
-I enjoy turning data into clear insights and building small full-stack apps that solve real problems. I completed a Data Analyst internship at Alfido Tech and continue to practice SQL, Python, Power BI, Java (Spring Boot), and basic machine learning through personal projects.
+I am learning to turn data into clear insights and to build small practical apps. I completed a Data Analyst internship at Alfido Tech and keep practicing SQL, Python, Power BI, Java (Spring Boot), and basic machine learning through personal projects. I am not a professional data analyst yet — I am preparing for that path.
 
 ---
 
@@ -28,10 +28,10 @@ I enjoy turning data into clear insights and building small full-stack apps that
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Customer_churn_analysis](https://github.com/ahalya7259-lgtm/Customer_churn_analysis) | Customer churn analysis from Alfido Tech internship (RFM and clustering) | Python, Pandas, Scikit-Learn |
-| [churn-early-warning-system](https://github.com/ahalya7259-lgtm/churn-early-warning-system) | Churn risk prediction with API and dashboard | Python, ML, FastAPI, Streamlit |
+| [churn-early-warning-system](https://github.com/ahalya7259-lgtm/churn-early-warning-system) | Churn risk prediction with API and dashboard (learning project) | Python, ML, FastAPI, Streamlit |
 | [it-ticket-analysis](https://github.com/ahalya7259-lgtm/it-ticket-analysis) | IT service desk ticket analysis | Python, data analysis |
 | [fake-app-detector](https://github.com/ahalya7259-lgtm/fake-app-detector) | Scores Android app listings as genuine or suspicious (learning project) | Python, Streamlit, ML |
-| [no-show-prediction](https://github.com/ahalya7259-lgtm/no-show-prediction) | Appointment no-show prediction | Python, ML |
+| [no-show-prediction](https://github.com/ahalya7259-lgtm/no-show-prediction) | Appointment no-show prediction (learning project) | Python, ML |
 | [rule-engine](https://github.com/ahalya7259-lgtm/rule-engine) | Configurable business rule engine with runtime evaluation | Java, Spring Boot |
 | [Employee_Management-](https://github.com/ahalya7259-lgtm/Employee_Management-) | Employee management system | Java |
 | [course-price-comparator](https://github.com/ahalya7259-lgtm/course-price-comparator) | Compare certification course fees across platforms | Python, Streamlit, Pandas |
@@ -48,7 +48,7 @@ I enjoy turning data into clear insights and building small full-stack apps that
 
 **Data Analyst Intern — Alfido Tech**  
 March–April 2026  
-Worked on customer data analysis projects, including churn-related analysis using Python and related tools.
+Internship project work on customer data analysis, including churn-related analysis using Python and related tools.
 
 ---
 
